@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+    font-size: 15px;
+    background-color:beige;
+}
+main {
+    border: solid 2px blue;
+    border-style:dashed;
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    background-color: azure;
+}
+.button-container{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+button{
+    margin: 3px;
+    padding: 2px;
+}
+span{
+    font-size: 80px;    
+}
